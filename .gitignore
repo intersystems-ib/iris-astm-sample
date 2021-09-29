@@ -1,2 +1,4 @@
-test/instrument-in/*.astm
-test/instrument-out/*.astm
+test/instrument-in/*
+test/instrument-out/*
+
+!.gitkeep
