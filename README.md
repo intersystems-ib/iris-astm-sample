@@ -11,7 +11,7 @@ docker-compose up -d
 
 Use the default `superuser` / `SYS` account.
 
-## Interoperability productions
+## Interoperability productions
 
 You will find two running productions:
 * [Instrument.Production](http://localhost:52773/csp/astm-instrument/EnsPortal.ProductionConfig.zen?PRODUCTION=ASTM.Instrument.Production&$NAMESPACE=ASTM-HOST) simulates an instrument that sends ASTM query or result messages.
