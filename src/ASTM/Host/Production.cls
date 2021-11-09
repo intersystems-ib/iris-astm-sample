@@ -22,6 +22,7 @@ XData ProductionDefinition
   <Item Name="ASTM Router" Category="" ClassName="EnsLib.MsgRouter.VDocRoutingEngine" PoolSize="1" Enabled="true" Foreground="false" Comment="" LogTraceEvents="false" Schedule="">
     <Setting Target="Host" Name="BusinessRuleName">ASTM.Host.Rule.Router</Setting>
     <Setting Target="Host" Name="ResponseFrom">Instrument-Host Generate Reply</Setting>
+    <Setting Target="Host" Name="RuleLogging">rd</Setting>
   </Item>
 </Production>
 }
