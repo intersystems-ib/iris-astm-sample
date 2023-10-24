@@ -1,4 +1,4 @@
-FROM store/intersystems/irishealth-community:2021.1.0.215.3
+FROM containers.intersystems.com/intersystems/irishealth-community:2023.1.0.229.0
 
 # create base dirs
 USER root
