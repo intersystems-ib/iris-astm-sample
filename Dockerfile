@@ -1,4 +1,5 @@
-FROM containers.intersystems.com/intersystems/irishealth-community:2023.1.0.229.0
+ARG IMAGE=containers.intersystems.com/intersystems/irishealth-community:2024.1
+FROM $IMAGE
 
 # create base dirs
 USER root
